@@ -52,6 +52,10 @@ input {
     width: 250px;
 }
 
+input:focus{
+    border-radius: blue;
+}
+
 .main-form {
     padding: 1vw 0;
     padding-left: 5vw;
